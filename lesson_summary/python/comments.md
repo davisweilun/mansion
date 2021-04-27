@@ -1,4 +1,4 @@
-##Lesson Description - Using Comments
+## Lesson Description - Using Comments
 
 When writing scripts, we often want to leave ourselves notes or explanations. 
 Python (along with most scripting languages) uses the # character to signify
@@ -23,8 +23,8 @@ or we can comment at the end of a line:
 **What About Block Comments?**
 
 Python does not have the concept of block commenting that you may have encountered 
-in other languages. Many people mistake a triple-quoted string as being a comment, 
-but it is not, it’s a multi-line string. That being said, multi-line strings can 
+in other languages. _Many people mistake a triple-quoted string as being a comment, 
+but it is not, it’s a multi-line string_. That being said, multi-line strings can 
 functionally work like comments, but they will still be allocated into memory.
 
 <pre>
